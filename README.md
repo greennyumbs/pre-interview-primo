@@ -1,6 +1,7 @@
 # pre-interview-primo
 
 This repository contains a TypeScript project for a pre-interview task.
+
 This README provides instructions for cloning the repository, installing dependencies, running the code, and executing unit tests. It also includes information about the project structure and notes for customization. Please adapt it based on your specific project details.
 
 ## Setup
@@ -25,6 +26,7 @@ This README provides instructions for cloning the repository, installing depende
 
 **Project Structure**
 src/: Contains the TypeScript source files.
+
 __tests__/: Contains the unit test files.
 
 **Notes**
