@@ -25,6 +25,7 @@ This README provides instructions for cloning the repository, installing depende
    npm test
 
 **Project Structure**
+
 src/: Contains the TypeScript source files.
 
 __tests__/: Contains the unit test files.
