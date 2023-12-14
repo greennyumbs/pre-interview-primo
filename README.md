@@ -24,11 +24,12 @@ This README provides instructions for cloning the repository, installing depende
    ```bash
    npm test
 
-**Project Structure**
+**Project Structure:**
 
 src/: Contains the TypeScript source files.
 
 __tests__/: Contains the unit test files.
 
-**Notes**
+**Notes:**
+
 Node.js and npm must be installed on your machine.
